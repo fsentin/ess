@@ -5,6 +5,10 @@ Technische Universität Wien, Visual Data Science
 ##### Fani Sentinella-Jerbić, 2023
 
  [The European Social Survey (ESS)](https://www.europeansocialsurvey.org/) is a cross-national survey which measures the attitudes, beliefs and behaviour patterns of different European populations through time.
+
+
+
+![Dashboard](https://raw.githubusercontent.com/fsentin/ess/main/dashboard.PNG)
  
  #### Citations
 
